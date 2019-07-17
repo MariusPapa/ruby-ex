@@ -167,7 +167,7 @@ a:hover {
   text-decoration: underline;
 }
 hgroup {
-  margin-top: 50px;
+  margin-top: 51px;
 }
 footer {
     margin: 50px 0 25px;
